@@ -1,7 +1,7 @@
 baseURL = '/'
 languageCode = 'fr'
 title = '3IME'
-theme="hugo-clarity"
+theme="hugo-clarity-master"
 paginate = 10
 disqusShortname = ""
 
