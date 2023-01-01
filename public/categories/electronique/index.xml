@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Electronique on 3IME</title>
+    <link>/categories/electronique.html</link>
+    <description>Recent content in Electronique on 3IME</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr</language>
+    <lastBuildDate>Thu, 29 Dec 2022 14:53:35 +0100</lastBuildDate><atom:link href="/categories/electronique/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Les résistances en électronique</title>
+      <link>/posts/2022/resistance.html</link>
+      <pubDate>Thu, 29 Dec 2022 14:53:35 +0100</pubDate>
+      
+      <guid>/posts/2022/resistance.html</guid>
+      <description>
+        
+          
+            Une résistance (dit aussi « résisteur » ou « résistor » pour ne pas utiliser le même terme pour l’objet et sa caractéristique) est un composant électronique ou électrique passif dont la principale caractéristique est d&amp;rsquo;opposer une plus ou moins grande résistance à la circulation du courant électrique.
+La résistance est mesurée en ohms, dont l&amp;rsquo;unité est symbolisée par la lettre grecque oméga (Ω).
+Symbole et notation : Une résistance est généralement représentée par le symbole suivant :
+          
+          
+        
+      </description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mécanique on 3IME</title>
+    <link>/categories/m%C3%A9canique.html</link>
+    <description>Recent content in Mécanique on 3IME</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr</language>
+    <lastBuildDate>Fri, 30 Dec 2022 14:37:33 +0100</lastBuildDate><atom:link href="/categories/m%C3%A9canique/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Le pied à coulisse</title>
+      <link>/posts/2022/coulisse.html</link>
+      <pubDate>Fri, 30 Dec 2022 14:37:33 +0100</pubDate>
+      
+      <guid>/posts/2022/coulisse.html</guid>
+      <description>
+        
+          
+            Un pied à coulisse est un instrument de mesure de longueur composé essentiellement de deux parties coulissantes l&amp;rsquo;une par rapport à l&amp;rsquo;autre..
+Il est basé sur la juxtaposition de 2 règles graduées, une en mm et l&amp;rsquo;autre en fraction de mm, cet instrument est très utilisé en mécanique.
+Description : Précision : Le vernier d’une longueur de 49 mm est divisé en 50 graduations.
+Chaque graduation a donc pour valeur 49 : 50 = 0.
+          
+          
+        
+      </description>
+    </item>
+    
+  </channel>
+</rss>

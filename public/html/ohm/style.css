@@ -1,0 +1,48 @@
+.app-nav{
+	background-color: steelblue;
+}
+
+.app-nav-font{
+	color: white;
+	font-size: 30px;
+	font-family: 'Montserrat';
+	font-weight: 700;
+}
+
+.app-nav-description{
+	color: white;
+	font-size: 15px;
+	font-family: 'Montserrat';
+	padding-bottom: 15px;
+}
+
+.app-contenedor{
+	background-color: Gainsboro;
+	text-align: center;
+	height: 400px;
+}
+
+.app-input{
+	margin-top: 30px;
+}
+
+.app-resultado{
+	margin-top: 20px;
+	margin-right: 50px;
+}
+
+.app-resultado-boton{
+	width: 200px;
+	background-color: steelblue;
+	font-family: 'Montserrat';
+	color: white;
+}
+
+.app-footer{
+	background-color: steelblue;
+	padding-top: 25px;
+}
+
+.app-footer > a{
+	color: white;
+}

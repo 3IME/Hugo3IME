@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>3IME</title>
+    <link>/</link>
+    <description>Recent content on 3IME</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr</language>
+    <lastBuildDate>Sun, 01 Jan 2023 10:57:00 +0100</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Tension, intensité et résistance</title>
+      <link>/posts/2023/uir.html</link>
+      <pubDate>Sun, 01 Jan 2023 10:57:00 +0100</pubDate>
+      
+      <guid>/posts/2023/uir.html</guid>
+      <description>
+        
+          
+            Un courant électrique, c’est un déplacement d’électrons, des particules chargées négativement.
+En ce qui concerne la qualification d’un courant électrique, les valeurs qui rentrent en jeu sont les suivantes :
+La tension électrique, mesurées en volts (symbole V) et notée U, décrit la quantité d’électricité. Exemple : 230 V (tension du courant électrique au secteur en France), 12 V.
+L’intensité électrique, mesurée en ampères (symbole A) et notée I, indique le mouvement de cette électricité.
+          
+          
+        
+      </description>
+    </item>
+    
+    <item>
+      <title>Les capteurs de température thermocouples et thermistances</title>
+      <link>/posts/2022/temppt100.html</link>
+      <pubDate>Fri, 30 Dec 2022 22:26:19 +0100</pubDate>
+      
+      <guid>/posts/2022/temppt100.html</guid>
+      <description>
+        
+          
+            Ce type de capteur n’est pas du TOR (Tout Ou Rien), il n’y a pas de contact qui s’ouvre ou se ferme mais un courant, une tension ou une résistance qui varient en fonction de la température.
+C&amp;rsquo;est de l&amp;rsquo;analogique
+Grandeur physique mesurée : température Image informationnelle : signal analogique Thermistance : Une thermistance est un composant électronique dont la résistance électrique varie en fonction de la température.
+Symbole :
+          
+          
+        
+      </description>
+    </item>
+    
+    <item>
+      <title>Les capteurs de température TOR</title>
+      <link>/posts/2022/temptor.html</link>
+      <pubDate>Fri, 30 Dec 2022 21:27:11 +0100</pubDate>
+      
+      <guid>/posts/2022/temptor.html</guid>
+      <description>
+        
+          
+            Il existe une multitude de capteurs de température, tant par leurs techniques que par leurs formes. Ils sont employés dans de nombreux domaines industriels.
+Les capteurs de température TOR (Tout Ou Rien) sont utilisés comme sécurité thermique, à l’intérieur d’un moteur, d’un four industriel … en cas de surchauffe, mais aussi comme régulation.
+Exemple de régulation TOR : Grandeur physique mesurée : température Image informationnelle : signal logique(Thermostat) 0-1 Le klixon : Symbole : C’est un contact sec, comme un interrupteur, c’est-à-dire qu’il n’y a aucune différence de potentiel entre ses deux bornes, lorsqu&amp;rsquo;il est « Normalement Fermé », en usage normal (non déclenché) — au contraire d’une résistance, par exemple.
+          
+          
+        
+      </description>
+    </item>
+    
+    <item>
+      <title>Interrupteur à lames souples</title>
+      <link>/posts/2022/ils.html</link>
+      <pubDate>Fri, 30 Dec 2022 17:58:40 +0100</pubDate>
+      
+      <guid>/posts/2022/ils.html</guid>
+      <description>
+        
+          
+            Un interrupteur ILS (Interrupeur à Lames Souples) est constitué de deux lames en matériau magnétique scellées à l&amp;rsquo; intérieur d&amp;rsquo;un tube de verre contenant un gaz neutre. Les lames sont disposées avec un léger recouvrement au niveau des contacts à l&amp;rsquo;intérieur du verre, espacées de quelques centièmes de millimètre entre elles (entrefer).
+Fonctionnement : Lorsque l&amp;rsquo;interrupteur est placé dans un champ magnétique, les lames s&amp;rsquo;aimantent par influence et s&amp;rsquo;attirent mutuellement jusqu&amp;rsquo;au contact.
+          
+          
+        
+      </description>
+    </item>
+    
+    <item>
+      <title>Le pied à coulisse</title>
+      <link>/posts/2022/coulisse.html</link>
+      <pubDate>Fri, 30 Dec 2022 14:37:33 +0100</pubDate>
+      
+      <guid>/posts/2022/coulisse.html</guid>
+      <description>
+        
+          
+            Un pied à coulisse est un instrument de mesure de longueur composé essentiellement de deux parties coulissantes l&amp;rsquo;une par rapport à l&amp;rsquo;autre..
+Il est basé sur la juxtaposition de 2 règles graduées, une en mm et l&amp;rsquo;autre en fraction de mm, cet instrument est très utilisé en mécanique.
+Description : Précision : Le vernier d’une longueur de 49 mm est divisé en 50 graduations.
+Chaque graduation a donc pour valeur 49 : 50 = 0.
+          
+          
+        
+      </description>
+    </item>
+    
+    <item>
+      <title>Les résistances en électronique</title>
+      <link>/posts/2022/resistance.html</link>
+      <pubDate>Thu, 29 Dec 2022 14:53:35 +0100</pubDate>
+      
+      <guid>/posts/2022/resistance.html</guid>
+      <description>
+        
+          
+            Une résistance (dit aussi « résisteur » ou « résistor » pour ne pas utiliser le même terme pour l’objet et sa caractéristique) est un composant électronique ou électrique passif dont la principale caractéristique est d&amp;rsquo;opposer une plus ou moins grande résistance à la circulation du courant électrique.
+La résistance est mesurée en ohms, dont l&amp;rsquo;unité est symbolisée par la lettre grecque oméga (Ω).
+Symbole et notation : Une résistance est généralement représentée par le symbole suivant :
+          
+          
+        
+      </description>
+    </item>
+    
+    <item>
+      <title>Energie puissance et rendement</title>
+      <link>/posts/2022/rendement.html</link>
+      <pubDate>Wed, 28 Dec 2022 19:30:00 +0100</pubDate>
+      
+      <guid>/posts/2022/rendement.html</guid>
+      <description>
+        
+          
+            Notion d&amp;rsquo;énergie : Définition : Un système possède de l&amp;rsquo;énergie s&amp;rsquo;il est capable de fournir du travail mécanique ou son équivalent. L’énergie s’exprime en Joules (J).
+Exemple :
+Un générateur transforme une énergie mécanique en énergie électrique. Cette énergie provient du générateur qui fait circuler le courant c&amp;rsquo;est-à-dire qui met en mouvement les charges électriques par sa force électromotrice. Le moteur reçoit cette énergie électrique et la transforme en énergie mécanique.
+          
+          
+        
+      </description>
+    </item>
+    
+    <item>
+      <title>Energie électrique</title>
+      <link>/posts/2022/energie.html</link>
+      <pubDate>Wed, 28 Dec 2022 17:02:41 +0100</pubDate>
+      
+      <guid>/posts/2022/energie.html</guid>
+      <description>
+        
+          
+            L&amp;rsquo;invention de l&amp;rsquo;électricité, ou plutôt l&amp;rsquo;élaboration de la science des phénomènes d&amp;rsquo;électrisation, a été matérialisée par la loi de Coulomb (1785), permettant à Volta de créer la première pile électrique (1800) puis à Thomas Edison d&amp;rsquo;éclairer usines et foyers (1879). L’électricité est désormais présente dans toutes les activités de la vie quotidienne.
+La consommation d&amp;rsquo;électricité en France : En 2019, la consommation d’électricité atteint 473 TWh.
+Évolution de la consommation : En France, la consommation d’électricité a triplé de 1973 à 2010.
+          
+          
+        
+      </description>
+    </item>
+    
+    <item>
+      <title>Le variateur pour moteur asynchrone triphasé</title>
+      <link>/posts/2022/variateur.html</link>
+      <pubDate>Mon, 26 Dec 2022 21:04:53 +0100</pubDate>
+      
+      <guid>/posts/2022/variateur.html</guid>
+      <description>
+        
+          
+            Le variateur pour moteur asynchrone triphasé Le variateur de tension est un appareillage électrique permettant de régler la vitesse d&amp;rsquo;un moteur électrique. Ce variateur de vitesse moteur triphasé va permettre de contrôler l&amp;rsquo;accélération d&amp;rsquo;un moteur asynchrone, sa décélération et sa vitesse de rotation.
+On ne peut pas avoir des vitesses de rotations différentes sans variateur ?
+Il est possible d&amp;rsquo;avoir différentes vitesses de rotation&amp;hellip; Mais on ne pourra plus les changer quand le moteur sera construit.
+          
+          
+        
+      </description>
+    </item>
+    
+    <item>
+      <title>Moteur asynchrone</title>
+      <link>/posts/2022/moteur_asynchrone.html</link>
+      <pubDate>Mon, 19 Dec 2022 19:24:03 +0100</pubDate>
+      
+      <guid>/posts/2022/moteur_asynchrone.html</guid>
+      <description>
+        
+          
+            Le moteur asynchrone triphasé Les moteurs asynchrones triphasés représentent plus de 80 % du parc moteur électrique. Ils sont utilisés pour transformer l’énergie électrique en énergie mécanique grâce à des phénomènes électromagnétiques.
+C’est une machine robuste, économique à l’achat et ne nécessitant que peu de maintenance. De plus, la vitesse de rotation est presque constante sur une large plage de puissance.
+1/ Schéma de principe : 2/ Constitution : Numéro Désignation Numéro Désignation 1 Couvercle 11 Logement de clavette 2 Anneau de levage 12 Arbre 3 Flasque avant 13 Joint 4 Flasque arrière 14 Rotor 5 Ventilateur 15 Bobinage (enroulement) 6 Grille de ventilateur 16 Fixation à pattes 7 Bornes 17 Carter 8 Boite à bornes 18 Presse étoupe 9 Le stator 19 Plaque signalétique 10 Roulements 3/ Principe de fonctionnement : Le stator supporte trois enroulements, décalés de 120°, alimentés par une tension alternative triphasée.
+          
+          
+        
+      </description>
+    </item>
+    
+  </channel>
+</rss>

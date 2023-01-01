@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Energie on 3IME</title>
+    <link>/tags/energie.html</link>
+    <description>Recent content in Energie on 3IME</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr</language>
+    <lastBuildDate>Wed, 28 Dec 2022 19:30:00 +0100</lastBuildDate><atom:link href="/tags/energie/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Energie puissance et rendement</title>
+      <link>/posts/2022/rendement.html</link>
+      <pubDate>Wed, 28 Dec 2022 19:30:00 +0100</pubDate>
+      
+      <guid>/posts/2022/rendement.html</guid>
+      <description>
+        
+          
+            Notion d&amp;rsquo;énergie : Définition : Un système possède de l&amp;rsquo;énergie s&amp;rsquo;il est capable de fournir du travail mécanique ou son équivalent. L’énergie s’exprime en Joules (J).
+Exemple :
+Un générateur transforme une énergie mécanique en énergie électrique. Cette énergie provient du générateur qui fait circuler le courant c&amp;rsquo;est-à-dire qui met en mouvement les charges électriques par sa force électromotrice. Le moteur reçoit cette énergie électrique et la transforme en énergie mécanique.
+          
+          
+        
+      </description>
+    </item>
+    
+    <item>
+      <title>Energie électrique</title>
+      <link>/posts/2022/energie.html</link>
+      <pubDate>Wed, 28 Dec 2022 17:02:41 +0100</pubDate>
+      
+      <guid>/posts/2022/energie.html</guid>
+      <description>
+        
+          
+            L&amp;rsquo;invention de l&amp;rsquo;électricité, ou plutôt l&amp;rsquo;élaboration de la science des phénomènes d&amp;rsquo;électrisation, a été matérialisée par la loi de Coulomb (1785), permettant à Volta de créer la première pile électrique (1800) puis à Thomas Edison d&amp;rsquo;éclairer usines et foyers (1879). L’électricité est désormais présente dans toutes les activités de la vie quotidienne.
+La consommation d&amp;rsquo;électricité en France : En 2019, la consommation d’électricité atteint 473 TWh.
+Évolution de la consommation : En France, la consommation d’électricité a triplé de 1973 à 2010.
+          
+          
+        
+      </description>
+    </item>
+    
+  </channel>
+</rss>

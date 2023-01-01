@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Moteur on 3IME</title>
+    <link>/tags/moteur.html</link>
+    <description>Recent content in Moteur on 3IME</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr</language>
+    <lastBuildDate>Mon, 26 Dec 2022 21:04:53 +0100</lastBuildDate><atom:link href="/tags/moteur/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Le variateur pour moteur asynchrone triphasé</title>
+      <link>/posts/2022/variateur.html</link>
+      <pubDate>Mon, 26 Dec 2022 21:04:53 +0100</pubDate>
+      
+      <guid>/posts/2022/variateur.html</guid>
+      <description>
+        
+          
+            Le variateur pour moteur asynchrone triphasé Le variateur de tension est un appareillage électrique permettant de régler la vitesse d&amp;rsquo;un moteur électrique. Ce variateur de vitesse moteur triphasé va permettre de contrôler l&amp;rsquo;accélération d&amp;rsquo;un moteur asynchrone, sa décélération et sa vitesse de rotation.
+On ne peut pas avoir des vitesses de rotations différentes sans variateur ?
+Il est possible d&amp;rsquo;avoir différentes vitesses de rotation&amp;hellip; Mais on ne pourra plus les changer quand le moteur sera construit.
+          
+          
+        
+      </description>
+    </item>
+    
+    <item>
+      <title>Moteur asynchrone</title>
+      <link>/posts/2022/moteur_asynchrone.html</link>
+      <pubDate>Mon, 19 Dec 2022 19:24:03 +0100</pubDate>
+      
+      <guid>/posts/2022/moteur_asynchrone.html</guid>
+      <description>
+        
+          
+            Le moteur asynchrone triphasé Les moteurs asynchrones triphasés représentent plus de 80 % du parc moteur électrique. Ils sont utilisés pour transformer l’énergie électrique en énergie mécanique grâce à des phénomènes électromagnétiques.
+C’est une machine robuste, économique à l’achat et ne nécessitant que peu de maintenance. De plus, la vitesse de rotation est presque constante sur une large plage de puissance.
+1/ Schéma de principe : 2/ Constitution : Numéro Désignation Numéro Désignation 1 Couvercle 11 Logement de clavette 2 Anneau de levage 12 Arbre 3 Flasque avant 13 Joint 4 Flasque arrière 14 Rotor 5 Ventilateur 15 Bobinage (enroulement) 6 Grille de ventilateur 16 Fixation à pattes 7 Bornes 17 Carter 8 Boite à bornes 18 Presse étoupe 9 Le stator 19 Plaque signalétique 10 Roulements 3/ Principe de fonctionnement : Le stator supporte trois enroulements, décalés de 120°, alimentés par une tension alternative triphasée.
+          
+          
+        
+      </description>
+    </item>
+    
+  </channel>
+</rss>

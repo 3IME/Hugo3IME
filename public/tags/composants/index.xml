@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Composants on 3IME</title>
+    <link>/tags/composants.html</link>
+    <description>Recent content in Composants on 3IME</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr</language>
+    <lastBuildDate>Fri, 30 Dec 2022 22:26:19 +0100</lastBuildDate><atom:link href="/tags/composants/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Les capteurs de température thermocouples et thermistances</title>
+      <link>/posts/2022/temppt100.html</link>
+      <pubDate>Fri, 30 Dec 2022 22:26:19 +0100</pubDate>
+      
+      <guid>/posts/2022/temppt100.html</guid>
+      <description>
+        
+          
+            Ce type de capteur n’est pas du TOR (Tout Ou Rien), il n’y a pas de contact qui s’ouvre ou se ferme mais un courant, une tension ou une résistance qui varient en fonction de la température.
+C&amp;rsquo;est de l&amp;rsquo;analogique
+Grandeur physique mesurée : température Image informationnelle : signal analogique Thermistance : Une thermistance est un composant électronique dont la résistance électrique varie en fonction de la température.
+Symbole :
+          
+          
+        
+      </description>
+    </item>
+    
+    <item>
+      <title>Les capteurs de température TOR</title>
+      <link>/posts/2022/temptor.html</link>
+      <pubDate>Fri, 30 Dec 2022 21:27:11 +0100</pubDate>
+      
+      <guid>/posts/2022/temptor.html</guid>
+      <description>
+        
+          
+            Il existe une multitude de capteurs de température, tant par leurs techniques que par leurs formes. Ils sont employés dans de nombreux domaines industriels.
+Les capteurs de température TOR (Tout Ou Rien) sont utilisés comme sécurité thermique, à l’intérieur d’un moteur, d’un four industriel … en cas de surchauffe, mais aussi comme régulation.
+Exemple de régulation TOR : Grandeur physique mesurée : température Image informationnelle : signal logique(Thermostat) 0-1 Le klixon : Symbole : C’est un contact sec, comme un interrupteur, c’est-à-dire qu’il n’y a aucune différence de potentiel entre ses deux bornes, lorsqu&amp;rsquo;il est « Normalement Fermé », en usage normal (non déclenché) — au contraire d’une résistance, par exemple.
+          
+          
+        
+      </description>
+    </item>
+    
+    <item>
+      <title>Interrupteur à lames souples</title>
+      <link>/posts/2022/ils.html</link>
+      <pubDate>Fri, 30 Dec 2022 17:58:40 +0100</pubDate>
+      
+      <guid>/posts/2022/ils.html</guid>
+      <description>
+        
+          
+            Un interrupteur ILS (Interrupeur à Lames Souples) est constitué de deux lames en matériau magnétique scellées à l&amp;rsquo; intérieur d&amp;rsquo;un tube de verre contenant un gaz neutre. Les lames sont disposées avec un léger recouvrement au niveau des contacts à l&amp;rsquo;intérieur du verre, espacées de quelques centièmes de millimètre entre elles (entrefer).
+Fonctionnement : Lorsque l&amp;rsquo;interrupteur est placé dans un champ magnétique, les lames s&amp;rsquo;aimantent par influence et s&amp;rsquo;attirent mutuellement jusqu&amp;rsquo;au contact.
+          
+          
+        
+      </description>
+    </item>
+    
+    <item>
+      <title>Les résistances en électronique</title>
+      <link>/posts/2022/resistance.html</link>
+      <pubDate>Thu, 29 Dec 2022 14:53:35 +0100</pubDate>
+      
+      <guid>/posts/2022/resistance.html</guid>
+      <description>
+        
+          
+            Une résistance (dit aussi « résisteur » ou « résistor » pour ne pas utiliser le même terme pour l’objet et sa caractéristique) est un composant électronique ou électrique passif dont la principale caractéristique est d&amp;rsquo;opposer une plus ou moins grande résistance à la circulation du courant électrique.
+La résistance est mesurée en ohms, dont l&amp;rsquo;unité est symbolisée par la lettre grecque oméga (Ω).
+Symbole et notation : Une résistance est généralement représentée par le symbole suivant :
+          
+          
+        
+      </description>
+    </item>
+    
+  </channel>
+</rss>

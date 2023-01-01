@@ -1,0 +1,35 @@
+baseURL = '/'
+languageCode = 'fr'
+title = '3IME'
+theme="hugo-clarity"
+paginate = 10
+disqusShortname = ""
+
+relativeURLs = true
+uglyURLs = true
+
+DefaultContentLanguage = "fr"
+# [languages]
+# config/languages.toml
+
+# [menus]
+# config/_default/menu.fr.toml
+
+[taxonomies]
+category = "categories"
+tag = "tags"
+series = "series"
+
+[outputs]
+home = ["HTML", "RSS", "JSON"]
+
+[markup.goldmark.renderer]
+    unsafe = true
+
+[params]
+enableMathNotation = true
+
+## Set custom CSS and/or JS to override site defaults.
+customCss = ["css/hint.css"]
+
+

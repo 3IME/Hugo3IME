@@ -1,0 +1,172 @@
+@import url(http://fonts.googleapis.com/css?family=Orbitron:400);
+
+html {
+    background: #030;
+    color: #fff;
+    text-shadow: 1px 1px 0 #000, 1px 1px 3px #000;
+}
+
+body {
+    background: #040;
+    font-family: Arial, Helvetica, Sans-Serif;
+    font-size: 16px;
+    margin: 20px auto;
+    padding: 10px;
+    width: 600px;
+    border-radius: 10px;
+}
+
+h1 {
+    text-align: center;
+    margin: 0 0 1em;
+    padding: 1em 0;
+    font-size: 1em;
+    line-height: 1.5;
+    font-family: "Orbitron", Meiryo, Arial, Helvetica, Sans-Serif;
+    font-weight: 400;
+    background: black;
+    border-radius: 10px;
+}
+
+.contents {
+    font-size: 14px;
+    text-align: center;
+}
+
+.contents:after {
+    content: "";
+    clear: both;
+    display: block;
+}
+
+#preview {
+    float: right;
+    width: 160px;
+    margin: 3.5em 0 1em;
+    padding: 10px;
+    background: #050;
+    border: 3px solid #090;
+    border-radius: 10px;
+}
+
+output {
+    font-size: 1.25em;
+    white-space: pre;
+    font-family: "courier new", "courier", monospace;
+}
+
+canvas {
+    background: #fff;
+    border: 1px solid #666;
+    border-radius: 10px;
+    box-shadow:
+               0px  3px 3px rgba(   0,   0,   0, 0.5 ),
+        inset  1px  1px 6px rgba( 255, 255, 255, 0.25  ),
+        inset -1px -1px 6px rgba(   0,   0,   0, 0.25  );
+}
+
+form {
+    float: left;
+    width: 390px;
+}
+
+table {
+    width: 100%;
+    table-layout: fixed;
+    border-collapse: collapce;
+    border-spacing: 0;
+    margin: 1em auto;
+}
+
+thead th { color: #fff; }
+
+th, td {
+    padding: 3px;
+    line-height: 1;
+}
+
+td { empty-cells: hide; }
+
+th { font-weight: 400; color: #000; text-shadow: none; line-height: 1.5; }
+
+tr:nth-child(1)  label { background: black  }
+tr:nth-child(2)  label { background: brown  }
+tr:nth-child(3)  label { background: red    }
+tr:nth-child(4)  label { background: orange }
+tr:nth-child(5)  label { background: yellow }
+tr:nth-child(6)  label { background: green  }
+tr:nth-child(7)  label { background: blue   }
+tr:nth-child(8)  label { background: purple }
+tr:nth-child(9)  label { background: gray   }
+tr:nth-child(10) label { background: white  }
+tr:nth-child(11) label { background: silver }
+tr:nth-child(12) label { background: gold   }
+
+tr:nth-child(1) label,
+tr:nth-child(2) label,
+tr:nth-child(3) label,
+tr:nth-child(6) label,
+tr:nth-child(7) label,
+tr:nth-child(8) label,
+tr:nth-child(9) label,
+tr:nth-child(13) span { color: white }
+
+tr:nth-child(4),
+tr:nth-child(5),
+tr:nth-child(10),
+tr:nth-child(11),
+tr:nth-child(12) { color: #000; text-shadow: none; }
+
+
+
+label {
+    display: block;
+    box-sizing: border-box;
+    line-height: 1.25;
+    padding: 2px 10px 2px 5px;
+    white-space: pre;
+    border-radius: 10px;
+    border: 2px solid #000;
+}
+
+
+label:hover {
+    border-color: #fff;
+}
+
+footer { clear: right; float: right; text-align: right; }
+small { font-size: 1em; }
+
+
+@media screen and (max-width: 639px) {
+    html {
+        background: #040;
+    }
+    body {
+        width: auto;
+        min-width: 300px;
+        margin: 0;
+        border-radius: 0;
+    }
+    
+    #preview,
+    form,
+    footer {
+        float: none;
+    }
+    
+    #preview {
+        margin: 1em auto;
+        width: auto;
+        min-width: 160px;
+    }
+
+    form { width: auto; }
+    footer { text-align: center; }
+}
+
+/*
+    i3 : 320×480
+    i4 : 640×960
+    i5 : 640×1136
+*/
