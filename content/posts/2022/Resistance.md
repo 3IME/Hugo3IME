@@ -7,7 +7,7 @@ tags:
   - Composants
 draft: false
 description: Les résistances en électronique
-preview: /images/Resistance.png
+preview: /images/resistances/Resistance.png
 slug: Resistance
 thumbnail: "/images/resistances/Resistance.png"
 ---
