@@ -14,16 +14,19 @@
     <loc>/posts.html</loc>
     <lastmod>2023-01-01T10:57:00+01:00</lastmod>
   </url><url>
+    <loc>/tags.html</loc>
+    <lastmod>2023-01-01T10:57:00+01:00</lastmod>
+  </url><url>
     <loc>/posts/2023/uir.html</loc>
+    <lastmod>2023-01-01T10:57:00+01:00</lastmod>
+  </url><url>
+    <loc>/tags/th%C3%A9orie.html</loc>
     <lastmod>2023-01-01T10:57:00+01:00</lastmod>
   </url><url>
     <loc>/tags/composants.html</loc>
     <lastmod>2022-12-30T22:26:19+01:00</lastmod>
   </url><url>
     <loc>/posts/2022/temppt100.html</loc>
-    <lastmod>2022-12-30T22:26:19+01:00</lastmod>
-  </url><url>
-    <loc>/tags.html</loc>
     <lastmod>2022-12-30T22:26:19+01:00</lastmod>
   </url><url>
     <loc>/posts/2022/temptor.html</loc>
@@ -64,7 +67,5 @@
   </url><url>
     <loc>/posts/2022/moteur_asynchrone.html</loc>
     <lastmod>2022-12-19T19:24:03+01:00</lastmod>
-  </url><url>
-    <loc>/series.html</loc>
   </url>
 </urlset>

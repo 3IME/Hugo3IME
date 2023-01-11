@@ -3,6 +3,8 @@ title: "Tension, intensité et résistance"
 date: 2023-01-01T10:57:00+01:00
 categories: 
 - Electricité
+tags:
+  - Théorie
 draft: false
 description: Tension, intensité et résistance
 preview: /images/uir/OhmsLoiDessin.jpg
@@ -14,7 +16,7 @@ Un courant électrique, c’est un déplacement d’électrons, des particules c
 
 En ce qui concerne la qualification d’un courant électrique, les valeurs qui rentrent en jeu sont les suivantes :
 
-- **La tension électrique**, mesurées en volts (symbole V) et notée U, décrit la quantité d’électricité.
+- **La tension électrique**, mesurées en volts (symbole V) et notée U, décrit la quantité d’électricité. <!--more--> 
 Exemple : 230 V (tension du courant électrique au secteur en France), 12 V.
 
 - **L’intensité électrique**, mesurée en ampères (symbole A) et notée I, indique le mouvement de cette électricité.

@@ -13,13 +13,13 @@ thumbnail: "/images/moteurs/Variateur.png"
 katex: true
 ---
 
-{{< figure src="/images/moteurs/Variateur.png" alt="Variateur pour moteur asynchrone triphasé" width="150px" class="float_right">}}
-
-
 ## Le variateur pour moteur asynchrone triphasé
 
 
-Le variateur de tension est un appareillage électrique permettant de régler la vitesse d'un moteur électrique. Ce variateur de vitesse moteur triphasé va permettre de **contrôler l'accélération d'un moteur asynchrone, sa décélération et sa vitesse de rotation.**
+Le variateur de tension est un appareillage électrique permettant de régler la vitesse d'un moteur électrique. <!--more-->  
+
+{{< figure src="/images/moteurs/Variateur.png" alt="Variateur pour moteur asynchrone triphasé" width="150px" class="float_right">}}
+Ce variateur de vitesse moteur triphasé va permettre de **contrôler l'accélération d'un moteur asynchrone, sa décélération et sa vitesse de rotation.**
 
 
 {{< line_break >}}
@@ -64,11 +64,12 @@ $$\fcolorbox{red}{transparent}{$\LARGE{Vitesse \lparen\frac {tr} s\rparen = \fra
 $$\LARGE{V = \frac f p \space \Rightarrow \space }  \normalsize{\frac{\textrm{f : la  fréquence  est  fournie  par le réseau 50hz } } {\textrm{p : impossible à changer après fabrication}}}$$
 
 {{% hint info %}}
-Nous pouvons conclure qu’il est impossible de faire varier la vitesse de rotation de notre moteur après sa fabrication &#128512;.
+Nous pouvons conclure qu’il est impossible de faire varier la vitesse de rotation de notre moteur après sa fabrication avec une fréquence réseau fixe (50Hz). &#128512;.
+{{% hint info %}}
+Il existe un composant qui se branche sur le réseau et qui fait varier la fréquence de sortie : **le variateur**...
+{{% /hint %}}
 {{% /hint %}}
 
-
-Il existe un composant qui se branche sur le réseau et qui fait varier la fréquence de sortie : **le variateur**
 
 ###### __Principe de fonctionnement :__
 {{< figure src="/images/moteurs/VarPrincipe.png" width="800px" class="follow">}}

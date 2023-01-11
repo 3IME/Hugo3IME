@@ -13,7 +13,7 @@ thumbnail: "/images/energie/EnergieEtiquette.jpg"
 ---
 ###### __Notion d'énergie :__
 
-**Définition :** Un système possède de l'énergie *s'il est capable de fournir du travail mécanique ou son équivalent.* L’énergie s’exprime en Joules (J).
+**Définition :** Un système possède de l'énergie *s'il est capable de fournir du travail mécanique ou son équivalent.* L’énergie s’exprime en Joules (J). <!--more--> 
 
 **Exemple :**
 

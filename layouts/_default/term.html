@@ -1,0 +1,12 @@
+{{ define "main" }}
+  <div class="container"> 
+    <h2 style="margin-top: 50px;">Tout les termes pour "{{ .Title }}"</h2>
+    <ul>
+      {{ range .Data.Pages }}
+        <li>
+          <a href="{{ .Permalink }}">{{ .Title }}</a>
+        </li>
+      {{ end }}
+    </ul>
+  </div>
+{{ end}}

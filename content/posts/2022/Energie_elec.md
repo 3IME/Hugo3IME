@@ -12,7 +12,7 @@ slug: Energie
 thumbnail: "/images/energie/Energie.png"
 ---
 
-L'invention de l'électricité, ou plutôt l'élaboration de la science des phénomènes d'électrisation, a été matérialisée par la **loi de Coulomb** (1785), permettant à **Volta** de créer la première pile électrique (1800) puis à **Thomas Edison** d'éclairer usines et foyers (1879).
+L'invention de l'électricité, ou plutôt l'élaboration de la science des phénomènes d'électrisation, a été matérialisée par la **loi de Coulomb** (1785), permettant à **Volta** de créer la première pile électrique (1800) puis à **Thomas Edison** d'éclairer usines et foyers (1879). <!--more--> 
 L’électricité est désormais présente dans toutes les activités de la vie quotidienne.
 
 ###### __La consommation d'électricité en France :__

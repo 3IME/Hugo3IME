@@ -12,7 +12,7 @@ slug: Coulisse
 thumbnail: "/images/coulisse/Pied.png"
 ---
 
-Un pied à coulisse est un instrument de mesure de longueur composé essentiellement de deux parties coulissantes l'une par rapport à l'autre..
+Un pied à coulisse est un instrument de mesure de longueur composé essentiellement de deux parties coulissantes l'une par rapport à l'autre. <!--more--> 
 
 Il est basé sur la juxtaposition de 2 règles graduées, une en mm et l'autre en fraction de mm, cet instrument est très utilisé en mécanique.
 

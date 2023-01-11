@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Théorie on 3IME</title>
+    <link>/tags/th%C3%A9orie.html</link>
+    <description>Recent content in Théorie on 3IME</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr</language>
+    <lastBuildDate>Sun, 01 Jan 2023 10:57:00 +0100</lastBuildDate><atom:link href="/tags/th%C3%A9orie/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Tension, intensité et résistance</title>
+      <link>/posts/2023/uir.html</link>
+      <pubDate>Sun, 01 Jan 2023 10:57:00 +0100</pubDate>
+      
+      <guid>/posts/2023/uir.html</guid>
+      <description>
+        
+          
+            &lt;p&gt;Un courant électrique, c’est un déplacement d’électrons, des particules chargées négativement.&lt;/p&gt;
+&lt;p&gt;En ce qui concerne la qualification d’un courant électrique, les valeurs qui rentrent en jeu sont les suivantes :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;La tension électrique&lt;/strong&gt;, mesurées en volts (symbole V) et notée U, décrit la quantité d’électricité.&lt;/li&gt;
+&lt;/ul&gt;
+          
+          
+        
+      </description>
+    </item>
+    
+  </channel>
+</rss>

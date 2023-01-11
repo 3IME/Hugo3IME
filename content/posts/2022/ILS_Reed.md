@@ -12,7 +12,7 @@ slug: ils
 thumbnail: "/images/ils/Ils.jpg"
 ---
 
-Un **interrupteur ILS (Interrupeur à Lames Souples)** est constitué de deux lames en matériau magnétique scellées à l' intérieur d'un tube de verre contenant un gaz neutre. Les lames sont disposées avec un léger recouvrement au niveau des contacts à l'intérieur du verre, espacées de quelques centièmes de millimètre entre elles (entrefer).
+Un **interrupteur ILS (Interrupeur à Lames Souples)** est constitué de deux lames en matériau magnétique scellées à l' intérieur d'un tube de verre contenant un gaz neutre.  <!--more--> Les lames sont disposées avec un léger recouvrement au niveau des contacts à l'intérieur du verre, espacées de quelques centièmes de millimètre entre elles (entrefer).
 
 {{< figure src="/images/ils/Ils.jpg" alt="Interrupteur ILS" width="250px" class="follow">}}
 

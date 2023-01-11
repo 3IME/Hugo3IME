@@ -12,7 +12,7 @@ slug: temppt100
 thumbnail: "/images/temp/PT100.jpg"
 ---
 
-Ce type de capteur n’est pas du TOR *(Tout Ou Rien)*, il n’y a pas de contact qui s’ouvre ou se ferme mais un courant, une tension ou une résistance qui varient en fonction de la température.
+Ce type de capteur n’est pas du TOR *(Tout Ou Rien)*, il n’y a pas de contact qui s’ouvre ou se ferme mais un courant, une tension ou une résistance qui varient en fonction de la température. <!--more--> 
 
 C'est de **l'analogique**
 

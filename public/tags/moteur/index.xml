@@ -16,9 +16,8 @@
       <description>
         
           
-            Le variateur pour moteur asynchrone triphasé Le variateur de tension est un appareillage électrique permettant de régler la vitesse d&amp;rsquo;un moteur électrique. Ce variateur de vitesse moteur triphasé va permettre de contrôler l&amp;rsquo;accélération d&amp;rsquo;un moteur asynchrone, sa décélération et sa vitesse de rotation.
-On ne peut pas avoir des vitesses de rotations différentes sans variateur ?
-Il est possible d&amp;rsquo;avoir différentes vitesses de rotation&amp;hellip; Mais on ne pourra plus les changer quand le moteur sera construit.
+            &lt;h2 id=&#34;le-variateur-pour-moteur-asynchrone-triphasé&#34;&gt;Le variateur pour moteur asynchrone triphasé&lt;/h2&gt;
+&lt;p&gt;Le variateur de tension est un appareillage électrique permettant de régler la vitesse d&amp;rsquo;un moteur électrique.&lt;/p&gt;
           
           
         
@@ -34,9 +33,9 @@ Il est possible d&amp;rsquo;avoir différentes vitesses de rotation&amp;hellip; 
       <description>
         
           
-            Le moteur asynchrone triphasé Les moteurs asynchrones triphasés représentent plus de 80 % du parc moteur électrique. Ils sont utilisés pour transformer l’énergie électrique en énergie mécanique grâce à des phénomènes électromagnétiques.
-C’est une machine robuste, économique à l’achat et ne nécessitant que peu de maintenance. De plus, la vitesse de rotation est presque constante sur une large plage de puissance.
-1/ Schéma de principe : 2/ Constitution : Numéro Désignation Numéro Désignation 1 Couvercle 11 Logement de clavette 2 Anneau de levage 12 Arbre 3 Flasque avant 13 Joint 4 Flasque arrière 14 Rotor 5 Ventilateur 15 Bobinage (enroulement) 6 Grille de ventilateur 16 Fixation à pattes 7 Bornes 17 Carter 8 Boite à bornes 18 Presse étoupe 9 Le stator 19 Plaque signalétique 10 Roulements 3/ Principe de fonctionnement : Le stator supporte trois enroulements, décalés de 120°, alimentés par une tension alternative triphasée.
+            &lt;!-- ![Un moteur asynchrone triphasé:right](/images/Moteur3ph.png) --&gt;
+&lt;h2 id=&#34;le-moteur-asynchrone-triphasé&#34;&gt;Le moteur asynchrone triphasé&lt;/h2&gt;
+&lt;p&gt;Les moteurs asynchrones triphasés représentent plus de 80 % du parc moteur électrique. Ils sont utilisés pour &lt;strong&gt;transformer l’énergie électrique en énergie mécanique grâce à des phénomènes électromagnétiques.&lt;/strong&gt;&lt;/p&gt;
           
           
         

@@ -12,7 +12,7 @@ slug: Resistance
 thumbnail: "/images/resistances/Resistance.png"
 ---
 
-Une **résistance** *(dit aussi « résisteur » ou « résistor » pour ne pas utiliser le même terme pour l’objet et sa caractéristique)* est un composant électronique ou électrique passif dont la principale caractéristique est d'opposer une plus ou moins grande résistance à la circulation du courant électrique.
+Une **résistance** *(dit aussi « résisteur » ou « résistor » pour ne pas utiliser le même terme pour l’objet et sa caractéristique)* est un composant électronique ou électrique passif dont la principale caractéristique est d'opposer une plus ou moins grande résistance à la circulation du courant électrique. <!--more--> 
 
 La résistance est **mesurée en ohms**, dont l'unité est symbolisée par la lettre **grecque oméga (Ω)**.
 

@@ -16,10 +16,11 @@
       <description>
         
           
-            Un courant électrique, c’est un déplacement d’électrons, des particules chargées négativement.
-En ce qui concerne la qualification d’un courant électrique, les valeurs qui rentrent en jeu sont les suivantes :
-La tension électrique, mesurées en volts (symbole V) et notée U, décrit la quantité d’électricité. Exemple : 230 V (tension du courant électrique au secteur en France), 12 V.
-L’intensité électrique, mesurée en ampères (symbole A) et notée I, indique le mouvement de cette électricité.
+            &lt;p&gt;Un courant électrique, c’est un déplacement d’électrons, des particules chargées négativement.&lt;/p&gt;
+&lt;p&gt;En ce qui concerne la qualification d’un courant électrique, les valeurs qui rentrent en jeu sont les suivantes :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;La tension électrique&lt;/strong&gt;, mesurées en volts (symbole V) et notée U, décrit la quantité d’électricité.&lt;/li&gt;
+&lt;/ul&gt;
           
           
         
@@ -35,10 +36,7 @@ L’intensité électrique, mesurée en ampères (symbole A) et notée I, indiqu
       <description>
         
           
-            Ce type de capteur n’est pas du TOR (Tout Ou Rien), il n’y a pas de contact qui s’ouvre ou se ferme mais un courant, une tension ou une résistance qui varient en fonction de la température.
-C&amp;rsquo;est de l&amp;rsquo;analogique
-Grandeur physique mesurée : température Image informationnelle : signal analogique Thermistance : Une thermistance est un composant électronique dont la résistance électrique varie en fonction de la température.
-Symbole :
+            &lt;p&gt;Ce type de capteur n’est pas du TOR &lt;em&gt;(Tout Ou Rien)&lt;/em&gt;, il n’y a pas de contact qui s’ouvre ou se ferme mais un courant, une tension ou une résistance qui varient en fonction de la température.&lt;/p&gt;
           
           
         
@@ -54,9 +52,8 @@ Symbole :
       <description>
         
           
-            Il existe une multitude de capteurs de température, tant par leurs techniques que par leurs formes. Ils sont employés dans de nombreux domaines industriels.
-Les capteurs de température TOR (Tout Ou Rien) sont utilisés comme sécurité thermique, à l’intérieur d’un moteur, d’un four industriel … en cas de surchauffe, mais aussi comme régulation.
-Exemple de régulation TOR : Grandeur physique mesurée : température Image informationnelle : signal logique(Thermostat) 0-1 Le klixon : Symbole : C’est un contact sec, comme un interrupteur, c’est-à-dire qu’il n’y a aucune différence de potentiel entre ses deux bornes, lorsqu&amp;rsquo;il est « Normalement Fermé », en usage normal (non déclenché) — au contraire d’une résistance, par exemple.
+            &lt;p&gt;Il existe une multitude de capteurs de température, tant par leurs techniques que par leurs formes. Ils sont employés dans de nombreux domaines industriels.&lt;/p&gt;
+&lt;p&gt;Les capteurs de température &lt;strong&gt;TOR&lt;/strong&gt; &lt;em&gt;(Tout Ou Rien)&lt;/em&gt; sont utilisés comme sécurité thermique, à l’intérieur d’un moteur, d’un four industriel …&lt;/p&gt;
           
           
         
@@ -72,8 +69,7 @@ Exemple de régulation TOR : Grandeur physique mesurée : température Image inf
       <description>
         
           
-            Un interrupteur ILS (Interrupeur à Lames Souples) est constitué de deux lames en matériau magnétique scellées à l&amp;rsquo; intérieur d&amp;rsquo;un tube de verre contenant un gaz neutre. Les lames sont disposées avec un léger recouvrement au niveau des contacts à l&amp;rsquo;intérieur du verre, espacées de quelques centièmes de millimètre entre elles (entrefer).
-Fonctionnement : Lorsque l&amp;rsquo;interrupteur est placé dans un champ magnétique, les lames s&amp;rsquo;aimantent par influence et s&amp;rsquo;attirent mutuellement jusqu&amp;rsquo;au contact.
+            &lt;p&gt;Un &lt;strong&gt;interrupteur ILS (Interrupeur à Lames Souples)&lt;/strong&gt; est constitué de deux lames en matériau magnétique scellées à l&amp;rsquo; intérieur d&amp;rsquo;un tube de verre contenant un gaz neutre.&lt;/p&gt;
           
           
         
@@ -89,9 +85,8 @@ Fonctionnement : Lorsque l&amp;rsquo;interrupteur est placé dans un champ magn�
       <description>
         
           
-            Notion d&amp;rsquo;énergie : Définition : Un système possède de l&amp;rsquo;énergie s&amp;rsquo;il est capable de fournir du travail mécanique ou son équivalent. L’énergie s’exprime en Joules (J).
-Exemple :
-Un générateur transforme une énergie mécanique en énergie électrique. Cette énergie provient du générateur qui fait circuler le courant c&amp;rsquo;est-à-dire qui met en mouvement les charges électriques par sa force électromotrice. Le moteur reçoit cette énergie électrique et la transforme en énergie mécanique.
+            &lt;h6 id=&#34;__notion-dénergie-__&#34;&gt;&lt;strong&gt;Notion d&amp;rsquo;énergie :&lt;/strong&gt;&lt;/h6&gt;
+&lt;p&gt;&lt;strong&gt;Définition :&lt;/strong&gt; Un système possède de l&amp;rsquo;énergie &lt;em&gt;s&amp;rsquo;il est capable de fournir du travail mécanique ou son équivalent.&lt;/em&gt; L’énergie s’exprime en Joules (J).&lt;/p&gt;
           
           
         
@@ -107,9 +102,7 @@ Un générateur transforme une énergie mécanique en énergie électrique. Cett
       <description>
         
           
-            L&amp;rsquo;invention de l&amp;rsquo;électricité, ou plutôt l&amp;rsquo;élaboration de la science des phénomènes d&amp;rsquo;électrisation, a été matérialisée par la loi de Coulomb (1785), permettant à Volta de créer la première pile électrique (1800) puis à Thomas Edison d&amp;rsquo;éclairer usines et foyers (1879). L’électricité est désormais présente dans toutes les activités de la vie quotidienne.
-La consommation d&amp;rsquo;électricité en France : En 2019, la consommation d’électricité atteint 473 TWh.
-Évolution de la consommation : En France, la consommation d’électricité a triplé de 1973 à 2010.
+            &lt;p&gt;L&amp;rsquo;invention de l&amp;rsquo;électricité, ou plutôt l&amp;rsquo;élaboration de la science des phénomènes d&amp;rsquo;électrisation, a été matérialisée par la &lt;strong&gt;loi de Coulomb&lt;/strong&gt; (1785), permettant à &lt;strong&gt;Volta&lt;/strong&gt; de créer la première pile électrique (1800) puis à &lt;strong&gt;Thomas Edison&lt;/strong&gt; d&amp;rsquo;éclairer usines et foyers (1879).&lt;/p&gt;
           
           
         
@@ -125,9 +118,8 @@ La consommation d&amp;rsquo;électricité en France : En 2019, la consommation d
       <description>
         
           
-            Le variateur pour moteur asynchrone triphasé Le variateur de tension est un appareillage électrique permettant de régler la vitesse d&amp;rsquo;un moteur électrique. Ce variateur de vitesse moteur triphasé va permettre de contrôler l&amp;rsquo;accélération d&amp;rsquo;un moteur asynchrone, sa décélération et sa vitesse de rotation.
-On ne peut pas avoir des vitesses de rotations différentes sans variateur ?
-Il est possible d&amp;rsquo;avoir différentes vitesses de rotation&amp;hellip; Mais on ne pourra plus les changer quand le moteur sera construit.
+            &lt;h2 id=&#34;le-variateur-pour-moteur-asynchrone-triphasé&#34;&gt;Le variateur pour moteur asynchrone triphasé&lt;/h2&gt;
+&lt;p&gt;Le variateur de tension est un appareillage électrique permettant de régler la vitesse d&amp;rsquo;un moteur électrique.&lt;/p&gt;
           
           
         
@@ -143,9 +135,9 @@ Il est possible d&amp;rsquo;avoir différentes vitesses de rotation&amp;hellip; 
       <description>
         
           
-            Le moteur asynchrone triphasé Les moteurs asynchrones triphasés représentent plus de 80 % du parc moteur électrique. Ils sont utilisés pour transformer l’énergie électrique en énergie mécanique grâce à des phénomènes électromagnétiques.
-C’est une machine robuste, économique à l’achat et ne nécessitant que peu de maintenance. De plus, la vitesse de rotation est presque constante sur une large plage de puissance.
-1/ Schéma de principe : 2/ Constitution : Numéro Désignation Numéro Désignation 1 Couvercle 11 Logement de clavette 2 Anneau de levage 12 Arbre 3 Flasque avant 13 Joint 4 Flasque arrière 14 Rotor 5 Ventilateur 15 Bobinage (enroulement) 6 Grille de ventilateur 16 Fixation à pattes 7 Bornes 17 Carter 8 Boite à bornes 18 Presse étoupe 9 Le stator 19 Plaque signalétique 10 Roulements 3/ Principe de fonctionnement : Le stator supporte trois enroulements, décalés de 120°, alimentés par une tension alternative triphasée.
+            &lt;!-- ![Un moteur asynchrone triphasé:right](/images/Moteur3ph.png) --&gt;
+&lt;h2 id=&#34;le-moteur-asynchrone-triphasé&#34;&gt;Le moteur asynchrone triphasé&lt;/h2&gt;
+&lt;p&gt;Les moteurs asynchrones triphasés représentent plus de 80 % du parc moteur électrique. Ils sont utilisés pour &lt;strong&gt;transformer l’énergie électrique en énergie mécanique grâce à des phénomènes électromagnétiques.&lt;/strong&gt;&lt;/p&gt;
           
           
         

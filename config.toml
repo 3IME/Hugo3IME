@@ -10,15 +10,37 @@ uglyURLs = true
 
 DefaultContentLanguage = "fr"
 # [languages]
-# config/languages.toml
+#config/languages.toml
 
-# [menus]
-# config/_default/menu.fr.toml
+[menu]
+[[menu.main]]
+  name = 'Electricité'
+  url = 'categories/electricité.html'
+  weight = -110
+[[menu.main]]
+  name = 'Electronique'
+  url = 'categories/electronique.html'
+  weight = -100
+[[menu.main]]
+  name = 'Automatisme'
+  url = 'categories/automatisme.html'
+  weight = -90
+[[menu.main]]
+  name = 'Mécanique'
+  url = 'categories/mécanique.html'
+  weight = -80
+[[menu.main]]
+  name = 'Hydraulique'
+  url = 'categories/hydraulique.html'
+  weight = -70
+[[menu.main]]
+  name = 'Pneumatique'
+  url = 'categories/pneumatique.html'
+  weight = -60
 
 [taxonomies]
-category = "categories"
+categorie = "categories"
 tag = "tags"
-series = "series"
 
 [outputs]
 home = ["HTML", "RSS", "JSON"]

@@ -14,7 +14,7 @@ thumbnail: "/images/temp/Klixon.jpg"
 
 Il existe une multitude de capteurs de température, tant par leurs techniques que par leurs formes. Ils sont employés dans de nombreux domaines industriels.
 
-Les capteurs de température **TOR** *(Tout Ou Rien)* sont utilisés comme sécurité thermique, à l’intérieur d’un moteur, d’un four industriel … en cas de surchauffe, mais aussi comme **régulation**.
+Les capteurs de température **TOR** *(Tout Ou Rien)* sont utilisés comme sécurité thermique, à l’intérieur d’un moteur, d’un four industriel …  <!--more--> en cas de surchauffe, mais aussi comme **régulation**.
 
 ###### __Exemple de régulation TOR :__
 
