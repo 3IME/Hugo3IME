@@ -1,7 +1,7 @@
 baseURL = '/'
 languageCode = 'fr'
 title = '3IME'
-theme=["github.com/chipzoller/hugo-clarity"]
+theme="hugo-clarity"
 paginate = 10
 disqusShortname = ""
 
