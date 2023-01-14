@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Moteur on 3IME</title>
-    <link>/tags/moteur.html</link>
+    <link>https://3ime.netlify.app/tags/moteur.html</link>
     <description>Recent content in Moteur on 3IME</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr</language>
-    <lastBuildDate>Mon, 26 Dec 2022 21:04:53 +0100</lastBuildDate><atom:link href="/tags/moteur/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 26 Dec 2022 21:04:53 +0100</lastBuildDate><atom:link href="https://3ime.netlify.app/tags/moteur/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Le variateur pour moteur asynchrone triphasé</title>
-      <link>/posts/2022/variateur.html</link>
+      <link>https://3ime.netlify.app/posts/2022/variateur.html</link>
       <pubDate>Mon, 26 Dec 2022 21:04:53 +0100</pubDate>
       
-      <guid>/posts/2022/variateur.html</guid>
+      <guid>https://3ime.netlify.app/posts/2022/variateur.html</guid>
       <description>
         
           
@@ -26,10 +26,10 @@
     
     <item>
       <title>Moteur asynchrone</title>
-      <link>/posts/2022/moteur_asynchrone.html</link>
+      <link>https://3ime.netlify.app/posts/2022/moteur_asynchrone.html</link>
       <pubDate>Mon, 19 Dec 2022 19:24:03 +0100</pubDate>
       
-      <guid>/posts/2022/moteur_asynchrone.html</guid>
+      <guid>https://3ime.netlify.app/posts/2022/moteur_asynchrone.html</guid>
       <description>
         
           

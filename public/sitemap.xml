@@ -2,70 +2,70 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/</loc>
+    <loc>https://3ime.netlify.app/</loc>
     <lastmod>2023-01-01T10:57:00+01:00</lastmod>
   </url><url>
-    <loc>/categories.html</loc>
+    <loc>https://3ime.netlify.app/categories.html</loc>
     <lastmod>2023-01-01T10:57:00+01:00</lastmod>
   </url><url>
-    <loc>/categories/electricit%C3%A9.html</loc>
+    <loc>https://3ime.netlify.app/categories/electricit%C3%A9.html</loc>
     <lastmod>2023-01-01T10:57:00+01:00</lastmod>
   </url><url>
-    <loc>/posts.html</loc>
+    <loc>https://3ime.netlify.app/posts.html</loc>
     <lastmod>2023-01-01T10:57:00+01:00</lastmod>
   </url><url>
-    <loc>/tags.html</loc>
+    <loc>https://3ime.netlify.app/tags.html</loc>
     <lastmod>2023-01-01T10:57:00+01:00</lastmod>
   </url><url>
-    <loc>/posts/2023/uir.html</loc>
+    <loc>https://3ime.netlify.app/posts/2023/uir.html</loc>
     <lastmod>2023-01-01T10:57:00+01:00</lastmod>
   </url><url>
-    <loc>/tags/th%C3%A9orie.html</loc>
+    <loc>https://3ime.netlify.app/tags/th%C3%A9orie.html</loc>
     <lastmod>2023-01-01T10:57:00+01:00</lastmod>
   </url><url>
-    <loc>/tags/composants.html</loc>
+    <loc>https://3ime.netlify.app/tags/composants.html</loc>
     <lastmod>2022-12-30T22:26:19+01:00</lastmod>
   </url><url>
-    <loc>/posts/2022/temppt100.html</loc>
+    <loc>https://3ime.netlify.app/posts/2022/temppt100.html</loc>
     <lastmod>2022-12-30T22:26:19+01:00</lastmod>
   </url><url>
-    <loc>/posts/2022/temptor.html</loc>
+    <loc>https://3ime.netlify.app/posts/2022/temptor.html</loc>
     <lastmod>2022-12-30T21:27:11+01:00</lastmod>
   </url><url>
-    <loc>/posts/2022/ils.html</loc>
+    <loc>https://3ime.netlify.app/posts/2022/ils.html</loc>
     <lastmod>2022-12-30T17:58:40+01:00</lastmod>
   </url><url>
-    <loc>/posts/2022/coulisse.html</loc>
+    <loc>https://3ime.netlify.app/posts/2022/coulisse.html</loc>
     <lastmod>2022-12-30T14:37:33+01:00</lastmod>
   </url><url>
-    <loc>/categories/m%C3%A9canique.html</loc>
+    <loc>https://3ime.netlify.app/categories/m%C3%A9canique.html</loc>
     <lastmod>2022-12-30T14:37:33+01:00</lastmod>
   </url><url>
-    <loc>/tags/m%C3%A9trologie.html</loc>
+    <loc>https://3ime.netlify.app/tags/m%C3%A9trologie.html</loc>
     <lastmod>2022-12-30T14:37:33+01:00</lastmod>
   </url><url>
-    <loc>/categories/electronique.html</loc>
+    <loc>https://3ime.netlify.app/categories/electronique.html</loc>
     <lastmod>2022-12-29T14:53:35+01:00</lastmod>
   </url><url>
-    <loc>/posts/2022/resistance.html</loc>
+    <loc>https://3ime.netlify.app/posts/2022/resistance.html</loc>
     <lastmod>2022-12-29T14:53:35+01:00</lastmod>
   </url><url>
-    <loc>/tags/energie.html</loc>
+    <loc>https://3ime.netlify.app/tags/energie.html</loc>
     <lastmod>2022-12-28T19:30:00+01:00</lastmod>
   </url><url>
-    <loc>/posts/2022/rendement.html</loc>
+    <loc>https://3ime.netlify.app/posts/2022/rendement.html</loc>
     <lastmod>2022-12-28T19:30:00+01:00</lastmod>
   </url><url>
-    <loc>/posts/2022/energie.html</loc>
+    <loc>https://3ime.netlify.app/posts/2022/energie.html</loc>
     <lastmod>2022-12-28T17:02:41+01:00</lastmod>
   </url><url>
-    <loc>/posts/2022/variateur.html</loc>
+    <loc>https://3ime.netlify.app/posts/2022/variateur.html</loc>
     <lastmod>2022-12-26T21:04:53+01:00</lastmod>
   </url><url>
-    <loc>/tags/moteur.html</loc>
+    <loc>https://3ime.netlify.app/tags/moteur.html</loc>
     <lastmod>2022-12-26T21:04:53+01:00</lastmod>
   </url><url>
-    <loc>/posts/2022/moteur_asynchrone.html</loc>
+    <loc>https://3ime.netlify.app/posts/2022/moteur_asynchrone.html</loc>
     <lastmod>2022-12-19T19:24:03+01:00</lastmod>
   </url>
 </urlset>

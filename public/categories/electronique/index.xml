@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Electronique on 3IME</title>
-    <link>/categories/electronique.html</link>
+    <link>https://3ime.netlify.app/categories/electronique.html</link>
     <description>Recent content in Electronique on 3IME</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr</language>
-    <lastBuildDate>Thu, 29 Dec 2022 14:53:35 +0100</lastBuildDate><atom:link href="/categories/electronique/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 29 Dec 2022 14:53:35 +0100</lastBuildDate><atom:link href="https://3ime.netlify.app/categories/electronique/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Les résistances en électronique</title>
-      <link>/posts/2022/resistance.html</link>
+      <link>https://3ime.netlify.app/posts/2022/resistance.html</link>
       <pubDate>Thu, 29 Dec 2022 14:53:35 +0100</pubDate>
       
-      <guid>/posts/2022/resistance.html</guid>
+      <guid>https://3ime.netlify.app/posts/2022/resistance.html</guid>
       <description>
         
           

@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Energie on 3IME</title>
-    <link>/tags/energie.html</link>
+    <link>https://3ime.netlify.app/tags/energie.html</link>
     <description>Recent content in Energie on 3IME</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr</language>
-    <lastBuildDate>Wed, 28 Dec 2022 19:30:00 +0100</lastBuildDate><atom:link href="/tags/energie/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 28 Dec 2022 19:30:00 +0100</lastBuildDate><atom:link href="https://3ime.netlify.app/tags/energie/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Energie puissance et rendement</title>
-      <link>/posts/2022/rendement.html</link>
+      <link>https://3ime.netlify.app/posts/2022/rendement.html</link>
       <pubDate>Wed, 28 Dec 2022 19:30:00 +0100</pubDate>
       
-      <guid>/posts/2022/rendement.html</guid>
+      <guid>https://3ime.netlify.app/posts/2022/rendement.html</guid>
       <description>
         
           
@@ -26,10 +26,10 @@
     
     <item>
       <title>Energie électrique</title>
-      <link>/posts/2022/energie.html</link>
+      <link>https://3ime.netlify.app/posts/2022/energie.html</link>
       <pubDate>Wed, 28 Dec 2022 17:02:41 +0100</pubDate>
       
-      <guid>/posts/2022/energie.html</guid>
+      <guid>https://3ime.netlify.app/posts/2022/energie.html</guid>
       <description>
         
           

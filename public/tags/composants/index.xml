@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Composants on 3IME</title>
-    <link>/tags/composants.html</link>
+    <link>https://3ime.netlify.app/tags/composants.html</link>
     <description>Recent content in Composants on 3IME</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr</language>
-    <lastBuildDate>Fri, 30 Dec 2022 22:26:19 +0100</lastBuildDate><atom:link href="/tags/composants/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 30 Dec 2022 22:26:19 +0100</lastBuildDate><atom:link href="https://3ime.netlify.app/tags/composants/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Les capteurs de température thermocouples et thermistances</title>
-      <link>/posts/2022/temppt100.html</link>
+      <link>https://3ime.netlify.app/posts/2022/temppt100.html</link>
       <pubDate>Fri, 30 Dec 2022 22:26:19 +0100</pubDate>
       
-      <guid>/posts/2022/temppt100.html</guid>
+      <guid>https://3ime.netlify.app/posts/2022/temppt100.html</guid>
       <description>
         
           
@@ -25,10 +25,10 @@
     
     <item>
       <title>Les capteurs de température TOR</title>
-      <link>/posts/2022/temptor.html</link>
+      <link>https://3ime.netlify.app/posts/2022/temptor.html</link>
       <pubDate>Fri, 30 Dec 2022 21:27:11 +0100</pubDate>
       
-      <guid>/posts/2022/temptor.html</guid>
+      <guid>https://3ime.netlify.app/posts/2022/temptor.html</guid>
       <description>
         
           
@@ -42,10 +42,10 @@
     
     <item>
       <title>Interrupteur à lames souples</title>
-      <link>/posts/2022/ils.html</link>
+      <link>https://3ime.netlify.app/posts/2022/ils.html</link>
       <pubDate>Fri, 30 Dec 2022 17:58:40 +0100</pubDate>
       
-      <guid>/posts/2022/ils.html</guid>
+      <guid>https://3ime.netlify.app/posts/2022/ils.html</guid>
       <description>
         
           
@@ -58,10 +58,10 @@
     
     <item>
       <title>Les résistances en électronique</title>
-      <link>/posts/2022/resistance.html</link>
+      <link>https://3ime.netlify.app/posts/2022/resistance.html</link>
       <pubDate>Thu, 29 Dec 2022 14:53:35 +0100</pubDate>
       
-      <guid>/posts/2022/resistance.html</guid>
+      <guid>https://3ime.netlify.app/posts/2022/resistance.html</guid>
       <description>
         
           

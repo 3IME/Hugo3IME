@@ -1,4 +1,4 @@
-baseURL = ''
+baseURL = 'https://3ime.netlify.app/'
 languageCode = 'fr'
 title = '3IME'
 theme="hugo-clarity"
