@@ -71,3 +71,6 @@ customCss = ["css/hint.css"]
   # relURL is applied to path 
   enable    = true
   path      = "/images/icons"
+
+[params.assets]
+disableFingerprinting = true
