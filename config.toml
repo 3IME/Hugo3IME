@@ -65,4 +65,9 @@ customCss = ["css/hint.css"]
     methods = ['(?i)GET|POST']
     urls = ['.*']
 
-
+ [params.favicon]
+  # you may want to use https://realfavicongenerator.net to generate you files
+  # used in layouts/partials/head.favicon.html
+  # relURL is applied to path 
+  enable    = true
+  path      = "/images/icons"
