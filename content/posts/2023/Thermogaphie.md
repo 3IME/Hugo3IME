@@ -1,5 +1,5 @@
 ---
-title: "Thermogaphie"
+title: "Thermographie"
 date: 2023-01-21T18:50:14+01:00
 categories:
   - Electricité
