@@ -13,9 +13,6 @@ thumbnail: "/images/moteurs/Variateur.png"
 katex: true
 ---
 
-## Le variateur pour moteur asynchrone triphasé
-
-
 Le variateur de tension est un appareillage électrique permettant de régler la vitesse d'un moteur électrique. <!--more-->  
 
 {{< figure src="/images/moteurs/Variateur.png" alt="Variateur pour moteur asynchrone triphasé" width="150px" class="float_right">}}

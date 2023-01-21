@@ -6,7 +6,24 @@
     <description>Recent content on 3IME</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr</language>
-    <lastBuildDate>Sun, 01 Jan 2023 10:57:00 +0100</lastBuildDate><atom:link href="https://3ime.netlify.app/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 21 Jan 2023 18:50:14 +0100</lastBuildDate><atom:link href="https://3ime.netlify.app/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Thermogaphie</title>
+      <link>https://3ime.netlify.app/posts/2023/thermographie.html</link>
+      <pubDate>Sat, 21 Jan 2023 18:50:14 +0100</pubDate>
+      
+      <guid>https://3ime.netlify.app/posts/2023/thermographie.html</guid>
+      <description>
+        
+          
+            &lt;p&gt;Qu’est-ce que la thermographie ?&lt;/p&gt;
+&lt;p&gt;La thermographie est une technique de mesure qui réalise à distance une &lt;strong&gt;image thermique&lt;/strong&gt; de la surface d’un objet qui doit être inspecté, p. ex. une installation électrique.&lt;/p&gt;
+          
+          
+        
+      </description>
+    </item>
+    
     <item>
       <title>Tension, intensité et résistance</title>
       <link>https://3ime.netlify.app/posts/2023/uir.html</link>
@@ -150,8 +167,7 @@
       <description>
         
           
-            &lt;h2 id=&#34;le-variateur-pour-moteur-asynchrone-triphasé&#34;&gt;Le variateur pour moteur asynchrone triphasé&lt;/h2&gt;
-&lt;p&gt;Le variateur de tension est un appareillage électrique permettant de régler la vitesse d&amp;rsquo;un moteur électrique.&lt;/p&gt;
+            &lt;p&gt;Le variateur de tension est un appareillage électrique permettant de régler la vitesse d&amp;rsquo;un moteur électrique.&lt;/p&gt;
           
           
         
@@ -168,7 +184,6 @@
         
           
             &lt;!-- ![Un moteur asynchrone triphasé:right](/images/Moteur3ph.png) --&gt;
-&lt;h2 id=&#34;le-moteur-asynchrone-triphasé&#34;&gt;Le moteur asynchrone triphasé&lt;/h2&gt;
 &lt;p&gt;Les moteurs asynchrones triphasés représentent plus de 80 % du parc moteur électrique. Ils sont utilisés pour &lt;strong&gt;transformer l’énergie électrique en énergie mécanique grâce à des phénomènes électromagnétiques.&lt;/strong&gt;&lt;/p&gt;
           
           

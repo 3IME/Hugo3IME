@@ -14,8 +14,6 @@ thumbnail: "/images/moteurs/Moteur3ph.png"
 
 <!-- ![Un moteur asynchrone triphasé:right](/images/Moteur3ph.png) -->
 
-## Le moteur asynchrone triphasé
-
 Les moteurs asynchrones triphasés représentent plus de 80 % du parc moteur électrique. Ils sont utilisés pour **transformer l’énergie électrique en énergie mécanique grâce à des phénomènes électromagnétiques.** <!--more--> 
 
 
