@@ -3,27 +3,36 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://3ime.netlify.app/</loc>
-    <lastmod>2023-01-22T15:29:26+01:00</lastmod>
+    <lastmod>2023-04-01T17:03:52+02:00</lastmod>
+  </url><url>
+    <loc>https://3ime.netlify.app/categories/automatisme.html</loc>
+    <lastmod>2023-04-01T17:03:52+02:00</lastmod>
   </url><url>
     <loc>https://3ime.netlify.app/categories.html</loc>
-    <lastmod>2023-01-22T15:29:26+01:00</lastmod>
+    <lastmod>2023-04-01T17:03:52+02:00</lastmod>
   </url><url>
     <loc>https://3ime.netlify.app/categories/electricit%C3%A9.html</loc>
-    <lastmod>2023-01-22T15:29:26+01:00</lastmod>
+    <lastmod>2023-04-01T17:03:52+02:00</lastmod>
   </url><url>
     <loc>https://3ime.netlify.app/categories/electronique.html</loc>
-    <lastmod>2023-01-22T15:29:26+01:00</lastmod>
+    <lastmod>2023-04-01T17:03:52+02:00</lastmod>
+  </url><url>
+    <loc>https://3ime.netlify.app/posts/2023/logique.html</loc>
+    <lastmod>2023-04-01T17:03:52+02:00</lastmod>
+  </url><url>
+    <loc>https://3ime.netlify.app/posts.html</loc>
+    <lastmod>2023-04-01T17:03:52+02:00</lastmod>
+  </url><url>
+    <loc>https://3ime.netlify.app/tags.html</loc>
+    <lastmod>2023-04-01T17:03:52+02:00</lastmod>
+  </url><url>
+    <loc>https://3ime.netlify.app/tags/th%C3%A9orie.html</loc>
+    <lastmod>2023-04-01T17:03:52+02:00</lastmod>
   </url><url>
     <loc>https://3ime.netlify.app/tags/m%C3%A9trologie.html</loc>
     <lastmod>2023-01-22T15:29:26+01:00</lastmod>
   </url><url>
     <loc>https://3ime.netlify.app/posts/2023/oscilloscope.html</loc>
-    <lastmod>2023-01-22T15:29:26+01:00</lastmod>
-  </url><url>
-    <loc>https://3ime.netlify.app/posts.html</loc>
-    <lastmod>2023-01-22T15:29:26+01:00</lastmod>
-  </url><url>
-    <loc>https://3ime.netlify.app/tags.html</loc>
     <lastmod>2023-01-22T15:29:26+01:00</lastmod>
   </url><url>
     <loc>https://3ime.netlify.app/categories/m%C3%A9canique.html</loc>
@@ -33,9 +42,6 @@
     <lastmod>2023-01-21T18:50:14+01:00</lastmod>
   </url><url>
     <loc>https://3ime.netlify.app/posts/2023/uir.html</loc>
-    <lastmod>2023-01-01T10:57:00+01:00</lastmod>
-  </url><url>
-    <loc>https://3ime.netlify.app/tags/th%C3%A9orie.html</loc>
     <lastmod>2023-01-01T10:57:00+01:00</lastmod>
   </url><url>
     <loc>https://3ime.netlify.app/tags/composants.html</loc>
