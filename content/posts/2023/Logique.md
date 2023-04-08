@@ -511,12 +511,7 @@ Autre simulation :
 
 {{< line_break >}}  
 
-<p class="codepen" data-height="500" data-slug-hash="ExpgVvj" data-user="maxcswann" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
-  <span>See the Pen <a href="https://codepen.io/maxcswann/pen/ExpgVvj">
-  :has() logic gates</a> by Max Swann (<a href="https://codepen.io/maxcswann">@maxcswann</a>)
-  on <a href="https://codepen.io">CodePen</a>.</span>
-</p>
-<script async src="https://cpwebassets.codepen.io/assets/embed/ei.js"></script>
+<iframe src="/html/logique2/index.html"  scrolling="yes" width="650" height="640"></iframe>
 
 {{< line_break >}}   
 
