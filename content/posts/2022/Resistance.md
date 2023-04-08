@@ -72,6 +72,10 @@ Pour: **N**oir, **B**run, **R**ouge, **O**range, **J**aune, **V**ert, **B**leu, 
 Vidéo :
 {{< youtube BPmf8vhQIS4>}}
 
+Autre vidéo :  
+{{< youtube CoutcGDko4E>}}
+
+
 ###### __Série E de numéros préférés :__
 
 La série E est un système de nombres préférés (également appelés valeurs préférées) dérivé pour une utilisation dans les composants électroniques .

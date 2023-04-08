@@ -488,12 +488,12 @@ et ainsi de suite.
         </div>
         <div class="block">
             Symbole logique <img src="/images/logique/united-states-of-america.png" width="15%" height="15%">
-            <img src="/images/logique/Logique06c.png" alt="OU EXCLUSIF symbole US">
+            <img src="/images/logique/Logique07c.png" alt="OU EXCLUSIF symbole US">
         </div>
         <div class="block" style="margin-top: 25px;">
             Équation
             $$\LARGE L=a . \overline{b} + \overline{a} . b =a \oplus b$$
-            Se prononce "a b barre  OU a barre b = a ou exlusif b"
+            Se prononce "a b barre  OU a barre b = a ou exclusif b"
         </div>
     </div>
 </div>  
