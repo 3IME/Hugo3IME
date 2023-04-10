@@ -6,7 +6,23 @@
     <description>Recent content in Théorie on 3IME</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr</language>
-    <lastBuildDate>Sat, 01 Apr 2023 17:03:52 +0200</lastBuildDate><atom:link href="https://3ime.netlify.app/tags/th%C3%A9orie/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 08 Apr 2023 20:09:42 +0200</lastBuildDate><atom:link href="https://3ime.netlify.app/tags/th%C3%A9orie/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Le Grafcet</title>
+      <link>https://3ime.netlify.app/posts/2023/grafcet.html</link>
+      <pubDate>Sat, 08 Apr 2023 20:09:42 +0200</pubDate>
+      
+      <guid>https://3ime.netlify.app/posts/2023/grafcet.html</guid>
+      <description>
+        
+          
+            &lt;p&gt;Le GRAFCET est un diagramme fonctionnel dont le but est de &lt;strong&gt;décrire graphiquement&lt;/strong&gt; les différents comportements d&amp;rsquo;un automatisme séquentiel.&lt;/p&gt;
+          
+          
+        
+      </description>
+    </item>
+    
     <item>
       <title>Logique</title>
       <link>https://3ime.netlify.app/posts/2023/logique.html</link>
